@@ -1,6 +1,8 @@
 # Planet Cubicus Species Dataset
 An artificially generated dataset of species with various attributes depending on the climate zone. Goal: Provide a data set for data mining. The model is very simple. It's meaningfulness in the biological sense is rather limited, but the data set provides an excellent playground for data analysis. 
 
+__DOWNLOAD HERE__: https://github.com/sascha-tayefeh/planet_cubicus_species
+
 ## Example Analysis
 Here is an example distribution of the animal kingdom depending on the climate zones. It is, of course, not particularly fine tuned and it exposes clearly the mathematical (and biological not-precise) nature of the generator algorithms. Any yet, it shows how useful the data set is for statistical analysis:
 ![histogram_animals.png](https://raw.githubusercontent.com/sascha-tayefeh/planet_cubicus_species/master/docs/histogram_animals.png)
